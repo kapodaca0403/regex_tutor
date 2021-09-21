@@ -1,40 +1,41 @@
 # Regex Tutorial
 
-Introductory paragraph (replace this with your text)
+![license badge](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 
-## Summary
+## Table of Contents:
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+- [License](#license)
+- [Description](#description)
+- [Installation](#installation)
+- [Test](#test)
+- [Usage](#usage)
+- [Contribution](#contribution)
+- [Questions](#questions)
 
-## Table of Contents
+## License
 
-- [Anchors](#anchors)
-- [Quantifiers](#quantifiers)
-- [Grouping Constructs](#grouping-constructs)
-- [Bracket Expressions](#bracket-expressions)
-- [Character Classes](#character-classes)
-- [The OR Operator](#the-or-operator)
-- [Flags](#flags)
-- [Character Escapes](#character-escapes)
+This project is licensed under the MIT license.
 
-## Regex Components
+## Description
 
-### Anchors
+This is a gist tutorial on regex matching a HTML image. Users can view gist to understand or use as a review. This includes info about anchors, quantifiers, grouping constructs, bracket expressions, character classes, flags and character escapes. In this tutorial it will show the breakdown of matching a HTML image and what everything means.
 
-### Quantifiers
+## Tests
 
-### Grouping Constructs
+undefined
 
-### Bracket Expressions
+## Usage
 
-### Character Classes
+Tutorial on regex matching a HTML image.
 
-### The OR Operator
+## Contribution
 
-### Flags
+We believe code is never finished, and welcome your contributions to enhance the application's functionality. Please adhere to the Code of Conduct for the Contributor Covenant, version 2.0, at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
 
-### Character Escapes
+## Questions
 
-## Author
+If you have any questions please contact me at ktrinaapodaca@yahoo.com You can find more of my projects at [kapodaca0403](https://github.com/kapodaca0403)
 
-K'trina Apodaca is a current student attending the DU coding bootcamp who currently lives in Colorful Colorado. Here is their github profile: https://github.com/kapodaca0403
+## Installation
+
+Npi I
