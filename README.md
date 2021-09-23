@@ -22,7 +22,7 @@ This is a gist tutorial on regex matching a HTML image. Users can view gist to u
 
 ## Tests
 
-undefined
+N/A
 
 ## Usage
 
