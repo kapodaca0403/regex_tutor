@@ -26,7 +26,8 @@ N/A
 
 ## Usage
 
-Tutorial on regex matching a HTML image.
+Tutorial on regex matching a HTML tag.
+
 https://gist.github.com/kapodaca0403/197892918ca3c82ec42b06ba8ec9de65
 
 ## Contribution
