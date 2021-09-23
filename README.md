@@ -18,7 +18,7 @@ This project is licensed under the MIT license.
 
 ## Description
 
-This is a gist tutorial on regex matching a HTML image. Users can view gist to understand or use as a review. This includes info about anchors, quantifiers, grouping constructs, bracket expressions, character classes, flags and character escapes. In this tutorial it will show the breakdown of matching a HTML image and what everything means.
+This is a gist tutorial on regex matching a HTML tag. Users can view gist to understand or use as a review. This breakdown includes info about anchors, quantifiers, grouping constructs, bracket expressions, character classes, flags and character escapes with a description and how it looks in the pattern itself. 
 
 ## Tests
 
