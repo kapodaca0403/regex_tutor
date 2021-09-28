@@ -26,7 +26,7 @@ N/A
 
 ## Usage
 
-Tutorial on regex matching a HTML tag.
+Tutorial on regex matching an HTML tag.
 
 https://gist.github.com/kapodaca0403/197892918ca3c82ec42b06ba8ec9de65
 
